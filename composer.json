@@ -1,5 +1,5 @@
 {
-    "name": "francescomalatesta/laravel-feature",
+    "name": "teenwoodsman/laravel-feature",
     "type": "library",
     "description": "A simple package to manage feature flagging in a Laravel project.",
     "keywords": ["laravel", "feature", "flag"],
@@ -16,7 +16,7 @@
     "require": {
         "php" : "^7.4|^8.1",
         "illuminate/database": "^8.0|^9.0",
-        "illuminate/support": "^8.0|^9.0"
+        "laravel/framework": "^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.0",
